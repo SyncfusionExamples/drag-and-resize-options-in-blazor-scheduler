@@ -2,7 +2,7 @@
 
 ## Overview
 
-A quick start Blazor project that helps you learn the options available with drag and drop and resize actions in Blazor Scheduler of Syncfusion. This sample demonstrates how to enable, configure, and customize dragging and resizing functionality for appointments within a Blazor-based scheduling application.
+A quick start Blazor project that helps you learn the options available with drag and drop and resize actions in [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler). This sample demonstrates how to enable, configure, and customize dragging and resizing functionality for appointments within a Blazor-based scheduling application.
 
 ## Features
 
