@@ -1,7 +1,5 @@
 # Advanced Drag and Resize Events in Blazor Scheduler
 
-## Overview
-
 A quick start Blazor project that helps you learn the options available with drag and drop and resize actions in [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler). This sample demonstrates how to enable, configure, and customize dragging and resizing functionality for appointments within a Blazor-based scheduling application.
 
 ## Features
@@ -17,15 +15,14 @@ A quick start Blazor project that helps you learn the options available with dra
 
 * Visual Studio 2022
 * .NET 6.0 or higher
-* Syncfusion Blazor components NuGet package
 
 ## How to run the project
 
 1. Checkout this project to a location on your disk
 2. Open the solution file using Visual Studio 2022
-3. Restore the NuGet packages by rebuilding the solution
-4. Build and run the project
-5. Navigate to the scheduler component to explore drag and resize functionality
+3. Build the solution to restore the required NuGet packages
+4. Press `F5` to start the application
+5. Navigate to the Scheduler component to explore drag and resize functionality
 
 ## Usage
 
