@@ -14,7 +14,7 @@ A quick start Blazor project that helps you learn the options available with dra
 ## Prerequisites
 
 * Visual Studio 2022
-* .NET 6.0 or higher
+* .NET 10.0
 
 ## How to run the project
 
