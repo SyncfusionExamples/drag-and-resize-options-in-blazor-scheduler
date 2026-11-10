@@ -1,6 +1,6 @@
 # Advanced Drag and Resize Events in Blazor Scheduler
 
-A quick start Blazor project that helps you learn the options available with drag and drop and resize actions in [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler). This sample demonstrates how to enable, configure, and customize dragging and resizing functionality for appointments within a Blazor-based scheduling application.
+A quick start Blazor project that helps you learn the options available with drag and drop and resize actions in [Blazor Scheduler](https://www.syncfusion.com/scheduler-sdk/blazor-scheduler). This sample demonstrates how to enable, configure, and customize dragging and resizing functionality for appointments within a Blazor-based scheduling application.
 
 ## Features
 
@@ -13,16 +13,31 @@ A quick start Blazor project that helps you learn the options available with dra
 
 ## Prerequisites
 
-* Visual Studio 2022
-* .NET 10.0
+- Visual Studio 2026 or Visual Studio Code
+- [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0)
 
 ## How to run the project
 
-1. Checkout this project to your local machine
-2. Open the solution file using Visual Studio 2022
-3. Build the solution to restore the required NuGet packages
-4. Press `F5` to start the application
-5. Navigate to the Scheduler component to explore drag and resize functionality
+**Visual Studio 2026**:
+
+* Checkout this project to a location in your disk.
+* Open the project (`DragResizeOptions.csproj`) file.
+* Restore the NuGet packages.
+* Run the project.
+
+**Visual Studio Code**:
+
+* Open the repository folder in Visual Studio Code.
+* Open the integrated terminal.
+* Navigate to the repository root.
+
+```bash
+cd drag-and-resize-options-in-blazor-scheduler
+dotnet restore
+dotnet run
+```
+
+Open the URL displayed in the terminal after the application starts.
 
 ## Usage
 
@@ -38,8 +53,8 @@ Once the project is running, you can:
 For comprehensive information about Blazor Scheduler and its features, refer to the following Syncfusion documentation:
 
 * **Blazor Introduction**: https://blazor.syncfusion.com/documentation/introduction
-* **Scheduler Getting Started**: https://blazor.syncfusion.com/documentation/schedule/getting-started
-* **Scheduler Appointments**: https://blazor.syncfusion.com/documentation/scheduler/appointments
+* **Scheduler Getting Started**: https://help.syncfusion.com/scheduler-sdk/blazor/schedule/getting-started-with-server-app
+* **Scheduler Appointments**: https://help.syncfusion.com/scheduler-sdk/blazor/schedule/appointments
 
 ## Live Demo
 
